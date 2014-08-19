@@ -47,7 +47,7 @@ FL_FT   'Vol206'    'Vol01'   2.28673E+00  2.28673E+00
 FL_GEO  +0.046228E+00  +0.32E+00  +1.00   
 FL_USL  0.00  0.00  
 FL_VEL  0.00  0.00
-FL_JSW  3 NoBubbleRise  NoBubbleRise
+FL_JSW  13 NoBubbleRise  NoBubbleRise
 FL_JLF  1.5284E+00   2.4384E+00
 FL_JLT  2.28673E+00   2.4384E+00
 FL_SEG  1
